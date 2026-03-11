@@ -2,7 +2,7 @@
 
 **Category:** Offensive Security / Web  
 **Points:** 100  
-**Flag:** `SK-CERT{0rm_r3l4t10n_tr4v3rs4l_g0t_y0u}`
+**Flag:** ``
 
 ---
 
